@@ -14,7 +14,7 @@ highlight_theme: normal
 
 
 menu:
-  Blog: /_posts
+  Blog: /
   #categories: /categories
   #archives: /archives
   #tags: /tags
